@@ -1,0 +1,30 @@
+{
+  "name": "Simple",
+  "author": "TCOTC",
+  "url": "https://github.com/TCOTC/Simple",
+  "version": "0.0.0",
+  "minAppVersion": "2.8.8",
+  "displayName": {
+    "default": "Simple",
+    "zh_CN": "清语"
+  },
+  "description": {
+    "default": "A simple theme",
+    "zh_CN": "一个简单的主题"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+      "https://afdian.com/a/JeffreyChen"
+    ]
+  },
+  "modes": [
+    "light"
+  ],
+  "keywords": [
+    "简单"
+  ]
+}
